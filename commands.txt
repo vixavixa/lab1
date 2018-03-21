@@ -1,0 +1,17 @@
+2  git init
+5  git add l1.txt
+5  git commit -m "Initial commit"
+7  git commit -a -m "modify l1.txt" 
+9  git remote add origin https://github.com/vixavixa/lab1.git
+10 git push -u origin master
+11 git commit -a -m "modify l1.txt again"
+11 git revert b5e7d4f
+12 git checkout -b logging
+13 git log
+13 git add log.txt
+13 git commit -m "add log.txt"
+14 git push origin logging
+15 git checkout master
+15 git merge logging
+15 git push origin master
+16 git checkout -b allcommands
