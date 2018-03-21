@@ -1,0 +1,19 @@
+commit ddc5c5061a5e47e007bd21df94503367e3fe015a (HEAD -> logging, master)
+Author: viktor.asprovski@students.finki.ukim.mk <viktor.asprovski@students.finki.ukim.mk>
+Date:   Wed Mar 21 17:22:29 2018 +0100
+
+    Revert "modify l1.txt again"
+
+    This reverts commit b5e7d4f39e2f811ae481379308431fb438bb0068.
+
+commit b5e7d4f39e2f811ae481379308431fb438bb0068
+Author: viktor.asprovski@students.finki.ukim.mk <viktor.asprovski@students.finki.ukim.mk>
+Date:   Wed Mar 21 17:20:55 2018 +0100
+
+    modify l1.txt again
+
+commit d4d7770f2f34c588ad8b7c5f2b4e5c10f5658db3 (origin/master)
+Author: viktor.asprovski@students.finki.ukim.mk <viktor.asprovski@students.finki.ukim.mk>
+Date:   Wed Mar 21 17:13:30 2018 +0100
+
+    modify l1.txt
